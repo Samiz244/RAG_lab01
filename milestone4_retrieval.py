@@ -111,6 +111,24 @@ def build_collection(chunks: list[dict], model: SentenceTransformer):
     return collection
 
 
+def load_or_build_collection(model: SentenceTransformer):
+    """
+    Reuse the persisted ChromaDB collection if it already holds chunks;
+    otherwise build it from scratch. Lets other scripts (e.g. query.py)
+    retrieve without re-embedding on every run.
+    """
+    client = chromadb.PersistentClient(path=str(CHROMA_DIR))
+    try:
+        collection = client.get_collection(COLLECTION_NAME)
+        if collection.count() > 0:
+            print(f"Using existing ChromaDB collection "
+                  f"({collection.count()} chunks) at {CHROMA_DIR}/\n")
+            return collection
+    except Exception:
+        pass  # collection doesn't exist yet — build it below
+    return build_collection(load_chunks(CHUNKS_FILE), model)
+
+
 # ── 3. RETRIEVAL ──────────────────────────────────────────────────────────────
 
 def retrieve(query: str, collection, model: SentenceTransformer, k: int = TOP_K) -> list[dict]:
