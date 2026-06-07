@@ -143,18 +143,14 @@ flowchart LR
 
 ## AI Tool Plan
 
-<!-- For each part of the pipeline below, describe:
-     - Which AI tool you plan to use (Claude, Copilot, ChatGPT, etc.)
-     - What you'll give it as input (which sections of this planning.md, which requirements)
-     - What you expect it to produce
-     - How you'll verify the output matches your spec
-
-     "I'll use AI to help me code" is not a plan.
-     "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
-     with my specified chunk size and overlap" is a plan. -->
-
 **Milestone 3 — Ingestion and chunking:**
+
+I planned to use Claude Code to implement the document ingestion and chunking pipeline. I provided the Documents section, Chunking Strategy section, and Architecture diagram from planning.md as input. I expected it to generate code that loads all corpus files, cleans the text, extracts metadata, and creates chunks following my entry-based chunking strategy. I verified the output by inspecting sample chunks, checking chunk counts, confirming metadata extraction, and ensuring there were no footer or introduction leaks in the final chunks.
 
 **Milestone 4 — Embedding and retrieval:**
 
+I planned to use Claude Code to implement the embedding and retrieval pipeline. I provided the Retrieval Approach section, Architecture diagram, and Milestone 4 requirements as input. I expected it to generate code that embeds chunks using all-MiniLM-L6-v2, stores them in ChromaDB with metadata, and retrieves the top-k most relevant chunks for a query. I verified the output by running evaluation questions, inspecting retrieved chunks and distance scores, and confirming that retrieval returned relevant admissions advice from the correct sources.
+
 **Milestone 5 — Generation and interface:**
+
+I planned to use Claude Code to implement grounded generation and the user interface. I provided the Architecture diagram, Retrieval Approach, Evaluation Plan, and grounding requirements from planning.md. I expected it to generate code that retrieves relevant chunks, sends them to Groq's Llama 3.3 70B model, enforces grounding through a system prompt, and displays answers and sources through a Gradio interface. I verified the output by testing covered and uncovered questions, confirming that source attribution was displayed correctly, and checking that the system responded with "I don't have enough information on that." when the retrieved context did not support an answer.
