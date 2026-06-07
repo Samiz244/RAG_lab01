@@ -1,0 +1,466 @@
+THE UNOFFICIAL GUIDE TO IVY LEAGUE ADMISSIONS ADVICE FROM ADMITTED STUDENTS
+Topic: Test Scores
+============================================================
+
+This document compiles advice, reflections, and insights on standardized test scores shared by students admitted to Ivy League institutions, as well as official guidance from university admissions offices, institutional research findings, and publicly available Common Data Set figures. Sources include official FAQ pages from Harvard, Yale, and Princeton, news coverage of institutional announcements, student accounts, and published admissions data analysis. All advice is paraphrased or summarized from publicly available content. No advice has been fabricated.
+
+============================================================
+
+POLICY OVERVIEW: THE RETURN TO TESTING AT THE IVY LEAGUE
+
+Before individual entries, a note on the rapidly shifting policy landscape as of 2025-2026:
+
+Six of the eight Ivy League schools now require standardized test scores for first-year applicants entering the Class of 2031 (applying in fall 2026). Harvard reinstated the SAT/ACT requirement in April 2024. Yale adopted a test-flexible policy in February 2024, requiring scores but accepting SAT, ACT, AP, or IB results. Dartmouth, Brown, Cornell, and Penn reinstated standardized testing for Fall 2025 applicants. Princeton remains test-optional for one final cycle (2026-2027 applicants) but announced in October 2025 that it will require testing starting with the 2027-2028 cycle. Columbia is the only Ivy League school with a permanent test-optional policy.
+
+All policy citations in this document draw from each institution's own announcements and published Common Data Set reports.
+
+============================================================
+
+Entry 1
+
+Source:
+Harvard College, Official FAQ: "How Will the Admissions Committee Evaluate My Test Scores?"
+https://college.harvard.edu/resources/faq/how-will-admissions-committee-evaluate-my-test-scores
+
+School:
+Harvard University
+
+Advice:
+Harvard's official FAQ on test score evaluation describes how the admissions committee reads scores in the context of each application as a whole. Harvard states directly that it has found SAT and ACT scores to be the best predictors of Harvard grades. At the same time, the committee explicitly acknowledges that not all students attend well-resourced schools, and that students from modest economic backgrounds or first-generation college families may have had fewer opportunities to prepare for standardized tests. Every application is read with attention to the context of the student's high school and community, with recognition that talent is everywhere but opportunity and access are not. The score is a data point, not the whole picture, but it is a meaningful and consistent one that helps the committee compare students across vastly different academic environments.
+
+Key Takeaway:
+Harvard considers test scores one of its most reliable predictors of academic success, but reads scores in the context of a student's school and community. A score that looks modest in the abstract may look genuinely strong when placed in its proper educational context. Access and opportunity matter in how scores are evaluated.
+
+------------------------------------------------------------
+
+Entry 2
+
+Source:
+Harvard College, Official FAQ: "Why Did Harvard Decide to Require Standardized Testing Again?"
+https://college.harvard.edu/resources/faq/why-did-harvard-decide-require-standardized-testing-again
+
+School:
+Harvard University
+
+Advice:
+Harvard's official explanation for reinstating the testing requirement, published in April 2024, stated that the decision was motivated by research confirming standardized testing's predictive value for both college and post-college success. The explanation also noted that when students had the option to withhold their scores, some chose not to submit information that, when interpreted in the context of the local norms of their school, could have helped their application. Harvard was explicit: more information, especially highly predictive information, is valuable for identifying talent across the socioeconomic spectrum. The FAQ further stated that this was particularly true for low-income and minority applicants who may also be disadvantaged in other aspects of their application due to lack of academic opportunity.
+
+Key Takeaway:
+Harvard reinstated testing not just to screen applicants but specifically because withholding scores was harming some lower-income and minority students whose scores, when evaluated in context, would have strengthened their cases. Students from under-resourced schools with respectable scores should submit them, even if those scores fall below Harvard's median.
+
+------------------------------------------------------------
+
+Entry 3
+
+Source:
+Harvard Gazette, "Harvard Announces Return to Required Testing" (April 2024)
+https://news.harvard.edu/gazette/story/2024/04/harvard-announces-return-to-required-testing/
+
+School:
+Harvard University
+
+Advice:
+When announcing the return to required testing, Harvard's Dean of the Faculty of Arts and Sciences Hopi Hoekstra explained the reasoning directly. Standardized tests provide information that is predictive of success in college and beyond for all students regardless of their background and life experience. She noted that the research cited included a study by Harvard economists Raj Chetty, David Deming, and colleague John Friedman, using data from more than 400 institutions and about 3.5 million undergraduates annually. That research showed that standardized test scores, unlike high school grades alone, were highly predictive of post-college success. Chetty's own comment on the findings was notable: he acknowledged that students from higher-income families often have greater access to test prep resources, but noted that other admissions measures such as recommendation letters, extracurriculars, and essays were even more prone to such wealth-correlated biases. Requiring test scores was therefore likely to make the admissions process more meritocratic, not less.
+
+Key Takeaway:
+The faculty research cited by Harvard found that test scores are better predictors of college and post-college success than other application components, and that essays, recommendations, and extracurriculars show greater correlations with family income than test scores do. This research fundamentally reframed how Harvard thought about the equity implications of test-optional policies.
+
+------------------------------------------------------------
+
+Entry 4
+
+Source:
+Harvard Crimson, "The Return to Test Requirements Shrank Harvard's Applicant Pool" (November 2025)
+https://www.thecrimson.com/article/2025/11/4/test-requirements-harvard-admissions-effect/
+
+School:
+Harvard University
+
+Advice:
+The Harvard Crimson reported that nearly three-quarters of students admitted to Harvard's Class of 2028 submitted SAT or ACT scores even during the test-optional period, suggesting that the most competitive applicants were already choosing to submit. When Harvard reinstated testing for the Class of 2029, application volume dropped. The Crimson noted ongoing academic debate about the value of test scores: a 2025 Berkeley study found that high school GPA was a better predictor of first-year college performance than standardized testing, while the Harvard Kennedy School research cited in Harvard's announcement concluded the opposite when looking at longer-term outcomes. The practical implication for applicants is that scores matter meaningfully at Harvard but are evaluated within a holistic framework that considers every other aspect of the application alongside them.
+
+Key Takeaway:
+Even during Harvard's test-optional years, most competitive applicants submitted scores. The return to required testing reflects institutional confidence in scores as a predictive tool. Students whose scores are strong should submit; the scores contribute to a fuller picture of academic preparation.
+
+------------------------------------------------------------
+
+Entry 5
+
+Source:
+Oriel Admissions, "SAT Score Ranges for the Ivy League: Middle 50% Bands and Strategy" (May 2026)
+Citing Common Data Set 2023-2024 reports for all eight Ivy League schools
+https://orieladmissions.com/sat-score-ranges-ivy-league/
+
+School:
+All Ivy League schools
+
+Advice:
+Analysis of Common Data Set data for all eight Ivy League schools revealed that admitted student SAT ranges cluster tightly across the cohort. The middle-50 percent SAT bands, based on 2023-2024 CDS data, were approximately as follows: Harvard, Yale, and Princeton each showed a 25th percentile of roughly 1490 to 1500 and a 75th percentile of 1580. Columbia and UPenn showed a range of approximately 1490 to 1570. Brown and Dartmouth showed ranges of approximately 1500 to 1560. Cornell, due to its multi-college structure, showed the widest variation with a 25th percentile near 1470 and a 75th percentile near 1550. For unhooked applicants, meaning those without legacy status, recruited athlete status, or other institutional hooks, the analysis recommended targeting 1560 or above for Harvard, Yale, and Princeton, and 1530 to 1550 for the remaining Ivies. Critically, the analysis also noted that published mid-50 percent ranges climbed roughly 50 points at the 25th percentile since 2018-2019, driven by self-selection during the test-optional years when mostly high scorers chose to submit.
+
+Key Takeaway:
+Ivy League SAT ranges are compressed at the top of the national distribution. The mid-50 percent bands across all eight schools span roughly 1470 to 1580. A 1480 SAT that once placed students comfortably inside the middle 50 percent at Harvard and Princeton before the pandemic now falls below the 25th percentile at both schools. Target ranges have shifted significantly upward.
+
+------------------------------------------------------------
+
+Entry 6
+
+Source:
+NextAdmit.com, "Harvard SAT Scores: Full Breakdown" (March 2025)
+https://nextadmit.com/blog/harvard-sat-scores/
+
+School:
+Harvard University
+
+Advice:
+Analysis of Harvard's published score data found that the average SAT score among admitted students hovers around 1550, with the 25th percentile at approximately 1500 and the 75th percentile at approximately 1570. Harvard does not publish a minimum score and explicitly states it does not admit by the numbers. For ACT, the middle 50 percent of admitted students falls in the range of 34 to 36. Harvard superscores the SAT, meaning it takes the highest section scores from all test dates, which makes strategic retaking a viable approach. There is no evidence of a preference for one test over the other; Harvard accepts both equally. Applicants are encouraged to choose whichever test they score higher on relative to that test's percentile distribution.
+
+Key Takeaway:
+Harvard's median admitted SAT is approximately 1550 and median ACT is approximately 35. Harvard superscores the SAT across test dates. There is no preference for SAT over ACT. Students should choose whichever test format produces their strongest results, and retaking to improve specific sections is a legitimate and common strategy.
+
+------------------------------------------------------------
+
+Entry 7
+
+Source:
+AdmissionSight.com, "Is Harvard Test Optional?" (September 2025)
+https://admissionsight.com/is-harvard-test-optional/
+
+School:
+Harvard University
+
+Advice:
+Analysis of Harvard's Common Data Set for 2023-2024 found that most admitted Harvard students score between 34 and 36 on the ACT, with the 25th percentile at 34 and the 75th percentile at a perfect 36. On the SAT, over 92 percent of admitted students score between 700 and 800 on the evidence-based reading and writing section, and 96 percent score in that range for math. The analysis recommended that students use official SAT and ACT practice tests from the College Board and Khan Academy as the most reliable prep resources, avoiding lower-quality third-party test prep books. If a student's SAT and ACT scores are not strong, the recommendation was to refocus preparation energy on the essays, extracurriculars, and recommendations that can still set an application apart, rather than exhausting time and energy on repeated test attempts with diminishing returns.
+
+Key Takeaway:
+Harvard's admitted score ranges are exceptionally high, with the vast majority of admits scoring in the 700 to 800 range on each SAT section. Official practice resources from the College Board and Khan Academy are the most efficient prep tools. Students who have plateaued below the competitive range should redirect effort to other application components.
+
+------------------------------------------------------------
+
+Entry 8
+
+Source:
+Dartmouth College Student Newspaper, "College to Reinstate Standardized Test Requirement for Class of 2029" (The Dartmouth, February 2024)
+https://www.thedartmouth.com/article/2024/02/college-to-reinstate-standardized-test-requirement-for-class-of-2029
+
+School:
+Dartmouth College
+
+Advice:
+Dartmouth's reinstatement of the testing requirement, the first among the Ivy League in 2024, was based on a faculty study by economics professors Elizabeth Cascio, Bruce Sacerdote, and Douglas Staiger, along with sociology professor Michele Tine. Their research concluded that standardized test scores are an important predictor of student success in Dartmouth's curriculum regardless of a student's background or family income. Dartmouth's Dean of Admissions Lee Coffin noted in the announcement that for many lower-income applicants, submitting a test score, even one below Dartmouth's median, would have confirmed their academic qualifications and could have tripled their chances of admission. Coffin specifically said Dartmouth was missing great students by not having that information, particularly students from high schools where admissions officers might not have clear context for evaluating grades alone.
+
+Key Takeaway:
+Dartmouth's reinstatement was driven by evidence that lower-income students with competitive scores were withholding them, inadvertently hurting their own applications. Students from less-resourced schools should not assume their scores are too low to submit. A score evaluated in the context of a student's school and background may be far more impressive than the raw number suggests.
+
+------------------------------------------------------------
+
+Entry 9
+
+Source:
+Dartmouth faculty research findings, cited in The Dartmouth and City Journal (February 2024)
+https://www.thedartmouth.com/article/2024/02/sharma-students-share-varied-reactions-to-reinstatement-of-sat-and-act-admissions-requirement
+https://www.city-journal.org/article/test-optional-admissions-underprivileged-students-dartmouth
+
+School:
+Dartmouth College
+
+Advice:
+The Dartmouth faculty research found that SAT scores explained approximately 22 percent of the variation in students' first-year GPAs at Dartmouth, while high school GPA explained only 9 percent. The researchers also found that students with a perfect 4.0 in high school earned college grades that were only 0.1 points higher than students with a 3.2 high school GPA, suggesting that grade inflation had severely diminished the usefulness of GPA alone as a predictor of college performance. During the test-optional years, 46 percent of Dartmouth applicants declined to submit their scores. Among those who withheld scores, many had scores of 1450 or above, which would have been competitive at Dartmouth in the context of their background. The research concluded that SAT scores were a better predictor than high school grades, essays, or teacher recommendations of how well students would perform in Dartmouth's rigorous curriculum.
+
+Key Takeaway:
+Dartmouth's internal data showed that test scores predicted college academic performance more reliably than any other single admissions component, including GPA. Grade inflation has made GPA a weak differentiator. Students who withhold competitive scores because they assume them insufficient are making a systematic error that damages their own applications.
+
+------------------------------------------------------------
+
+Entry 10
+
+Source:
+NPR, transcript of coverage of Dartmouth's announcement (February 2024)
+https://www.npr.org/transcripts/1229223433
+
+School:
+Dartmouth College
+
+Advice:
+Dartmouth economics professor Bruce Sacerdote, who led the faculty research, described to NPR what the data revealed. Admissions officers would see in the data that a student from a disadvantaged background had scored 1450 or 1500, but because the student had not submitted their score, the office had no way of knowing this. Such a student was not admitted to Dartmouth despite having a score that, in the context of their background, represented an outstanding academic achievement. Sacerdote described this as the university missing out on great students because of a policy designed to help them that ended up working against them. He emphasized that at Dartmouth, admissions officers consider scores relative to the local norms of the applicant's high school, which means a score below the median can still be a genuine asset when evaluated fairly.
+
+Key Takeaway:
+Contextual evaluation of scores is real and consequential at Dartmouth. Admissions officers do not simply compare scores to an absolute benchmark; they compare them to the local norms of each applicant's school. This means that a 1450 from a low-resourced high school may be as impressive as a 1550 from a heavily resourced prep school.
+
+------------------------------------------------------------
+
+Entry 11
+
+Source:
+Inside Higher Ed, "Yale Adopts Test-Flexible Admissions Policy" (February 2024)
+https://www.insidehighered.com/news/admissions/traditional-age/2024/02/23/yale-adopts-test-flexible-admissions-policy
+
+School:
+Yale University
+
+Advice:
+Yale's February 2024 announcement of its test-flexible policy explained the reasoning in detail. During the test-optional years, Yale's experience of reviewing applications without test scores taught the university that requiring only the SAT or ACT before 2020 had likely discouraged some promising students from applying. The test-flexible approach was designed to address this by allowing students to submit SAT, ACT, AP, or IB exam scores, whichever best represented their abilities. Yale cited data suggesting that test scores were the single greatest predictor of a student's future Yale grades. The policy change was described as an attempt to maintain the predictive and comparative value of test scores while reducing the barrier created by requiring only one specific type of test.
+
+Key Takeaway:
+Yale's test-flexible policy reflects a genuine effort to improve both the quality of academic evidence in applications and the accessibility of the process. Students who have strong AP or IB scores but weaker SAT or ACT performance now have a legitimate path to demonstrating academic readiness through subject-area exams they may have already taken.
+
+------------------------------------------------------------
+
+Entry 12
+
+Source:
+Yale College Undergraduate Admissions, Letter to School Counselors (February 2024)
+https://admissions.yale.edu/test-flexible-counselors
+
+School:
+Yale University
+
+Advice:
+Yale's official letter to school counselors explaining the new test-flexible policy detailed how it would work in practice. Starting with the 2024-2025 admissions cycle, all applicants were asked to choose which scores they wanted considered from four options: SAT, ACT, AP, or IB. Students who chose to submit AP or IB scores were required to include results from all subject exams completed before applying. Yale would allow superscored results from the SAT or ACT, provided all subsections were included. Predicted IB scores would not fulfill the requirement. Yale also addressed students who lacked access to any testing: applicants at schools that did not offer AP or IB courses would not be penalized for being unable to submit those alternatives. Yale's stated goal was to empower applicants to put their best foot forward, recognizing that no single test is a perfect or one-size-fits-all demonstration of college readiness.
+
+Key Takeaway:
+Yale's test-flexible policy is not a loophole but a genuine recognition that different students have access to different types of rigorous academic assessment. Students who do well on AP exams in subjects related to their intended area of study now have a legitimate and sometimes stronger way to demonstrate academic preparation than a single standardized test date.
+
+------------------------------------------------------------
+
+Entry 13
+
+Source:
+Yale College Undergraduate Admissions, "Standardized Testing for Transfer Applicants" (official page)
+https://admissions.yale.edu/standardized-testing-transfer-applicants
+
+School:
+Yale University
+
+Advice:
+Yale's official guidance on standardized testing noted that its score ranges provide a snapshot of the class, not a floor for competitiveness. Yale explicitly stated that it is not the case that scores below a certain threshold automatically hurt an application while those above automatically help. Scores below published ranges can still help establish an applicant's academic preparation for Yale coursework, particularly when those scores are evaluated in the context of the student's school and background. This guidance also addressed the practical question of whether to submit: Yale advised students who are uncertain about submitting to note that Yale's admissions committee reads scores in context and that withholding a score that, when contextualized, would strengthen an application is a common mistake.
+
+Key Takeaway:
+Yale does not have a hard score cutoff below which an application is automatically disadvantaged. Scores below the published middle-50 percent range can still strengthen an application when evaluated in context. Students from less-resourced schools should not withhold scores reflexively just because those scores fall below the published median.
+
+------------------------------------------------------------
+
+Entry 14
+
+Source:
+Princeton Alumni Weekly (PAW), "Princeton Admissions Will Again Require Standardized Tests in 2027" (October 2025)
+https://paw.princeton.edu/article/princeton-admissions-will-again-require-standardized-tests-2027
+
+School:
+Princeton University
+
+Advice:
+Princeton's October 2025 announcement that it would require standardized tests starting with the 2027-2028 admissions cycle was based on a review of five years of test-optional admissions data. Princeton found that academic performance at the university was stronger for students who submitted test scores than for students who did not. Approximately 22 percent of the Class of 2029, the most recent class admitted under test-optional policies, did not submit test scores, and that group showed weaker academic performance on average. Princeton's Dean of Admission Karen Richardson had said in 2021 that she did not think the test-optional policy would be permanent, calling testing an important piece of the holistic review process. Princeton waited until after its peers had reinstated testing before making its own announcement, citing the same underlying institutional data as Harvard, Dartmouth, and Yale.
+
+Key Takeaway:
+Princeton's internal data confirmed what Dartmouth, Harvard, and Yale had already found: students who submitted test scores performed better academically than those who did not. Students applying to Princeton for the 2026-2027 cycle still have the flexibility of test-optional, but the trend is clear: Princeton expects to have scores for the vast majority of competitive applicants.
+
+------------------------------------------------------------
+
+Entry 15
+
+Source:
+The Princetonian, "Princeton to Require SAT or ACT Scores for Applicants Starting Fall 2027" (October 2025)
+https://www.dailyprincetonian.com/article/2025/10/princeton-news-sat-act-standardized-test-optional-required-admissions
+
+School:
+Princeton University
+
+Advice:
+The Princetonian reported that even during Princeton's test-optional years, 77 to 78 percent of enrolling freshmen chose to submit test scores voluntarily. This self-selection pattern meant that the students not submitting scores were disproportionately those with lower scores, which partially explains the performance gap Princeton found in its data. This dynamic, seen at every Ivy League school that went test-optional, was one of the key drivers of reinstatement across the cohort: when high-scoring students voluntarily submit and lower-scoring students do not, the school still receives test data from most competitive applicants, but the threshold of what gets evaluated as a full application shifts. Students who submitted strong scores during the optional period likely benefited from doing so, as those scores provided an additional positive data point in an already competitive pool.
+
+Key Takeaway:
+Even during test-optional years at Princeton, more than three-quarters of enrolled students submitted scores voluntarily. High-scoring students who withheld scores during optional cycles may have missed an opportunity to strengthen their applications. When in doubt and scores are competitive, submitting is generally the right choice.
+
+------------------------------------------------------------
+
+Entry 16
+
+Source:
+Oriel Admissions, "The Return of Standardized Testing: Which Top Colleges Require SAT/ACT" (March 2026)
+https://orieladmissions.com/colleges-require-sat-act/
+
+School:
+All Ivy League schools (policy overview)
+
+Advice:
+A comprehensive analysis of the Ivy League testing policy landscape as of 2026 confirmed that six of the eight Ivy League schools required standardized test scores for first-year applicants for the 2026-2027 cycle. Harvard, Yale (test-flexible), Dartmouth, Brown, Cornell, and Penn all require scores. Princeton is test-optional for one final cycle before requiring scores starting in 2027-2028. Columbia is permanently test-optional. The analysis also noted the consequence for score ranges: because test-optional policies caused high-scoring students to continue submitting while lower-scoring students often withheld, the published middle-50 percent score ranges climbed roughly 50 points at the 25th percentile since 2018-2019. A 1480 SAT that sat comfortably inside the middle 50 percent at Harvard, Yale, and Princeton before the pandemic now falls below the 25th percentile at all three.
+
+Key Takeaway:
+The effective floor for competitive SAT scores at the most selective Ivy League schools has risen approximately 50 points since before the pandemic, driven by the self-selection dynamics of test-optional years. Students preparing for 2026 or 2027 cycles should target ranges based on current published data, not pre-pandemic benchmarks.
+
+------------------------------------------------------------
+
+Entry 17
+
+Source:
+Cosmic College Consulting, "SAT Score Needed to Get Into Princeton 2026"
+https://www.cosmic.nyc/blog/sat-score-needed-to-get-into-princeton-2026
+
+School:
+Princeton University
+
+Advice:
+Analysis of Princeton's score data for recent admitted classes noted that even during the test-optional period, 77 percent of enrolling freshmen submitted scores. Students scoring 1500 or above were encouraged to submit regardless of the test-optional status. Students below 1450 with other compelling application strengths might weigh the tradeoffs more carefully during optional cycles, but even then, the analysis noted that for most students, the score would still be one positive data point even if not a dominant one. For students applying early action, the self-selected pool tends to have near-perfect scores by the fall of senior year, meaning the competitive bar within the early round is particularly high on test scores.
+
+Key Takeaway:
+The practical guidance for Princeton is simple for most students: if your score is 1500 or above, submit it. The early action applicant pool at Princeton is especially competitive on test scores, reflecting a self-selected group of students who have typically achieved strong academic profiles before the fall of senior year.
+
+------------------------------------------------------------
+
+Entry 18
+
+Source:
+PrepMaven, "What's a Good SAT Score for Ivy League Schools? (2026 Data + Expert Advice)"
+https://prepmaven.com/blog/test-prep/good-sat-score-for-ivy-league/
+
+School:
+All Ivy League schools
+
+Advice:
+Analysis of IPEDS data for students enrolling in fall 2023 found that at nearly every Ivy League school, the top 25 percent of admitted students submitted a perfect score of 800 on the SAT math section. For reading and writing, the picture was slightly less uniform but still extremely high: at Dartmouth and Yale, a 740 on reading and writing placed a student only at the 75th percentile of the admitted class. The analysis recommended using the middle-50 percent range as the most practical benchmarking tool, with a clear framework: if your score falls above the 75th percentile for a given school, test scores are an active asset; if your score falls inside the middle 50 percent, scores are neutral and other application components need to differentiate you; if your score falls below the 25th percentile, test scores become a weakness that other strengths need to compensate for.
+
+Key Takeaway:
+Use the middle-50 percent framework to categorize your score position at each target school. A score above the 75th percentile is an active asset. A score inside the range is table stakes that does not differentiate. A score below the 25th percentile is a weakness requiring compensation from other application components.
+
+------------------------------------------------------------
+
+Entry 19
+
+Source:
+Tutor Doctor, "SAT Scores for Ivy League: Harvard, Yale, Princeton and More (2025 Data)" (January 2026)
+https://www.tutordoctor.com/blog/2026/january/sat-scores-for-ivy-league-harvard-yale-princeton-more-2025-data/
+
+School:
+All Ivy League schools
+
+Advice:
+Analysis of SAT score ranges across the Ivy League identified three practical tiers for positioning. Scores between 1550 and 1600 place students in excellent shape for any Ivy League school, representing the top tier of the competitive range. Scores between 1500 and 1550 represent the sweet spot for Ivy League applicants, roughly the 50th percentile of admitted students at most Ivies. Students scoring here have cleared the academic bar and can compete effectively when other application elements are strong. Scores between 1450 and 1500 keep students in the conversation but require significant compensatory factors such as exceptional extracurriculars, a distinctive background or perspective, or demonstrated impact that distinguishes the applicant beyond academics. The analysis also reiterated the core lesson from the institutional research at Dartmouth, Harvard, and Yale: test-optional policies hurt the students they were designed to help, because lower-income students systematically underestimated the value of their scores.
+
+Key Takeaway:
+The three-tier framework for SAT positioning at Ivy League schools is: 1550 to 1600 is strong at every school; 1500 to 1550 is competitive when the rest of the application is strong; 1450 to 1500 requires significant compensatory factors. Below 1450, students face meaningful academic headwinds at the most selective Ivies.
+
+------------------------------------------------------------
+
+Entry 20
+
+Source:
+ScoreSmart, "What Is a Good SAT Score for Ivy League Schools?" (April 2026)
+https://score-smart.com/what-is-a-good-sat-score-for-ivy-league-schools/
+
+School:
+All Ivy League schools
+
+Advice:
+Analysis of Ivy League score data found that at every Ivy League school, 25 percent or more of enrolled students submitted a perfect 800 on the SAT math section. On the reading section, the 75th percentile at Dartmouth and Yale required a 740. This concentration of top-decile scorers reflects the extreme self-selection of the applicant pool: students applying to Ivy League schools who take the SAT typically score significantly higher than the national average, and admitted students represent the very top of that already-high pool. The analysis emphasized that a strong SAT score does not guarantee admission but does remove a potential weakness and earns an application a complete review. An application below the academic floor at any Ivy League school receives abbreviated consideration regardless of how strong the essays and extracurriculars are.
+
+Key Takeaway:
+A competitive SAT score is not a guarantee of full consideration but a prerequisite for it. Scores below the 25th percentile threshold mean an application may not receive a full holistic review regardless of other strengths. Reaching the academic floor through strong scores and course rigor is the entry requirement for everything else to matter.
+
+------------------------------------------------------------
+
+Entry 21
+
+Source:
+Acely, "Getting Into Harvard: Acceptance Rates and Admission Requirements" (November 2025)
+https://acely.com/blog/getting-into-harvard-acceptance-rates-and-admission-requirements
+
+School:
+Harvard University
+
+Advice:
+Admissions analysis noted that at Harvard, the 25th to 75th percentile SAT range for admitted students is approximately 1460 to 1570. A student aiming to be competitive rather than merely eligible should target the 75th percentile, which is 1570 or above. For ACT, the 25th to 75th percentile range is approximately 33 to 35, with students aiming to be competitive targeting a 35 or perfect 36. The analysis also emphasized that a top GPA and a 1550 SAT do not guarantee admission when everyone applying has near-perfect scores. Harvard's holistic review at that point shifts to essays, extracurriculars, character, and the overall coherence of the application. Being at or above the 75th percentile removes test scores as a weakness and gives the rest of the application the chance to do its work.
+
+Key Takeaway:
+At Harvard, a score at the 75th percentile or above removes test scores as a concern and lets other application elements compete on their own terms. Students should aim for at least the 75th percentile at their target schools, not just the median, to ensure their scores function as an asset rather than a neutral factor.
+
+------------------------------------------------------------
+
+Entry 22
+
+Source:
+IvyWise, "What Is a Good SAT Score in 2026?" (March 2026)
+https://www.ivywise.com/blog/good-sat-score/
+
+School:
+All Ivy League schools
+
+Advice:
+IvyWise's analysis emphasized the importance of using school-specific middle-50 percent ranges rather than any abstract notion of a good score. A 1400 score, which sounds high, sits at the 95th percentile nationally but falls well below the 25th percentile of admitted students at every Ivy League school. This mismatch between national percentile ranking and school-specific percentile ranking is one of the most common misconceptions students bring into the Ivy League application process. The practical benchmarking framework recommended is simple: find the middle-50 percent range for each target school from the Common Data Set, check which tier your current score falls into, and use that assessment to make realistic decisions about where to apply and how much energy to invest in retesting.
+
+Key Takeaway:
+National test score percentiles are misleading in the Ivy League context. A score that is impressive nationally may still be below the 25th percentile of any Ivy League school's admitted class. Always benchmark using each school's published middle-50 percent range, not national averages.
+
+------------------------------------------------------------
+
+Entry 23
+
+Source:
+SparkAdmissions, "What Is a Good SAT Score for Ivy League Admissions?" (August 2025)
+https://www.sparkadmissions.com/blog/what-is-a-good-sat-score-for-ivy-league/
+
+School:
+All Ivy League schools
+
+Advice:
+SparkAdmissions offered strategic guidance on retaking the SAT or ACT. Taking the test multiple times to achieve a target score is a legitimate and common strategy, but the analysis recommended limiting retakes to three or four attempts total. Excessive retakes beyond that number may signal a lack of preparation or become a diminishing investment of time that would be better redirected toward essays, extracurriculars, or other components. Superscoring, available at most Ivy League schools for the SAT, means that students can strategically target specific sections in separate test dates rather than needing to improve both sections simultaneously in a single sitting. Even a perfect score of 1600 does not guarantee Ivy League admission; scores are a necessary but not sufficient condition.
+
+Key Takeaway:
+Retaking the SAT or ACT is a legitimate strategy, but three to four attempts is a reasonable ceiling. Beyond that, time is better invested in other application components. Superscoring at most Ivies means section-specific improvement across multiple test dates counts, making focused retakes targeting one weak section a more efficient strategy than full retakes.
+
+------------------------------------------------------------
+
+Entry 24
+
+Source:
+Applerouth Tutoring, "Dartmouth Reinstates SAT/ACT Requirements" (February 2024)
+https://www.applerouth.com/blog/dartmouth-reinstates-sat-act-requirements
+
+School:
+Dartmouth College
+
+Advice:
+Summary of Dartmouth Dean of Admissions Lee Coffin's comments during the reinstatement announcement noted that for many lower-income applicants, submitting a test score even below Dartmouth's median could have confirmed their academic qualifications and dramatically improved their admission odds. Coffin specifically described cases where students from high schools with limited context visible to admissions officers could use a test score as a clear, objective signal of preparation that the transcript alone could not provide as clearly. Elite private schools have guidance counselors who write detailed letters explaining the rigor of their school's curriculum; students from under-resourced public schools often lack that context. A test score fills a critical contextual gap for those students.
+
+Key Takeaway:
+For students from schools where admissions officers have limited context about curriculum rigor, a test score provides an objective signal of academic preparation that no other component can substitute for as effectively. Students from under-resourced schools who have scores at or above the school's local-context threshold should almost always submit.
+
+------------------------------------------------------------
+
+Entry 25
+
+Source:
+Oriel Admissions, "The Return of Standardized Testing: Which Top Colleges Require SAT/ACT" (March 2026)
+https://orieladmissions.com/colleges-require-sat-act/
+
+School:
+All Ivy League schools (Columbia and Princeton policy comparison)
+
+Advice:
+As of the 2026-2027 cycle, Columbia remains the sole Ivy League school with a permanent test-optional policy. Columbia's permanently test-optional stance reflects a philosophical difference: Columbia described its application design as affording applicants the greatest possible opportunity and flexibility to represent themselves, stating that students who choose not to submit test scores will not be at a disadvantage. For students applying to Columbia specifically, the analysis noted that while scores will still be reviewed if submitted and may help strengthen an application, Columbia is genuinely committed to evaluating applications on all other components. Princeton, by contrast, ended its test-optional run with the 2026-2027 cycle and requires scores starting in 2027-2028, citing five years of internal data showing stronger academic performance among students who submitted scores.
+
+Key Takeaway:
+Columbia is the only Ivy League school where a test-optional strategy is permanently supported by institutional policy. For all other Ivy League schools, submitting a competitive score strengthens an application and, for schools that require testing, is now mandatory. Know each school's specific current policy before making submission decisions.
+
+============================================================
+
+SUMMARY OF RECURRING THEMES ACROSS ALL ENTRIES
+
+These themes appeared consistently across multiple Ivy League school perspectives and institutional research findings:
+
+1. The testing landscape has fundamentally shifted. As of 2026, six of eight Ivy League schools require standardized test scores. Only Columbia has a permanent test-optional policy. Princeton's test-optional window closes with the 2027-2028 cycle. Students should check each school's current published policy before making decisions.
+
+2. Scores are evaluated in context, not in isolation. Every school, most explicitly Harvard, Yale, and Dartmouth, evaluates scores relative to the local norms of a student's high school and community. A score below the published median can still strengthen an application if it represents genuine achievement within the student's educational context.
+
+3. Lower-income students made a systematic error by withholding scores. The central finding that drove Ivy League reinstatements was that lower-income and first-generation students were disproportionately withholding scores that, when contextualized, would have helped them gain admission. Students from under-resourced schools who have earned competitive scores should submit them.
+
+4. Test scores are more predictive than high school GPA. Institutional research at Dartmouth, Harvard, and Brown found that standardized test scores predicted college academic performance more reliably than GPA, partly because grade inflation has compressed GPAs at the top of the distribution. A 4.0 GPA no longer reliably distinguishes students from one another; test scores still do.
+
+5. The score ranges have shifted upward significantly. The 25th percentile at Harvard, Yale, and Princeton climbed roughly 50 points since 2018-2019, driven by the self-selection of high scorers during test-optional years. Students should benchmark against current published data, not pre-pandemic norms.
+
+6. A score at or above the 75th percentile is an active asset; below the 25th percentile is a meaningful weakness. The middle-50 percent framework is the most practical tool for understanding where your score positions you at each target school. Above the 75th, scores work for you. Below the 25th, scores work against you and require compensation from other parts of the application.
+
+7. Superscoring is widely available and should be used strategically. Most Ivy League schools superscore the SAT. Students who are close to their target range on one section but further away on another can make efficient gains by retaking and targeting the weaker section, rather than attempting to improve both sections simultaneously.
+
+8. A perfect score does not guarantee admission. Every Ivy League school rejects students with perfect 1600 SAT and 36 ACT scores. Scores are a necessary threshold, not a sufficient cause of admission. Above the threshold, every other component of the application competes for the final decision.
+
+============================================================
